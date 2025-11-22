@@ -6,6 +6,7 @@ oopservices:
     startCommand: python3 run.py  
     plan: free 
     region: europe
+    oopservices:
     envVars:
       # Sets a hardcoded value
       # (DO NOT hardcode secrets in your Blueprint file!)
